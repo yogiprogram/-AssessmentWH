@@ -2,15 +2,15 @@
 
 ## SQL Solution
 
- sql/Solution_1_VotesRank.sql
- sql/Solution_2_initcap.sql
- sql/Solution_3_splitColumnToRow.sql
- sql/Solution_4_bugtracking.sql
+	1. sql/Solution_1_VotesRank.sql
+	2. sql/Solution_2_initcap.sql
+	3. sql/Solution_3_splitColumnToRow.sql
+	4. sql/Solution_4_bugtracking.sql
 
 ## Java Solution 
 
-Solution 1 : java/StringUtils.java 
-Solution 2 : java/ArraysComplementary.java
-Solution 3 : java/FileHandling.java
+	1. Solution 1 : java/StringUtils.java 
+	2. Solution 2 : java/ArraysComplementary.java
+	3. Solution 3 : java/FileHandling.java
 
  
